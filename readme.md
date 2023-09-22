@@ -1,8 +1,20 @@
 # Corso Website
 
+### Udemy Project No.2
+### Course: Bootstrap 5 From Scratch | Build 5 Modern Websites <br> <br>
+
 Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
 
 <img src="./images/display.png" />
+
+
+## Languages and Technologies used in this project.
+
+- HTML
+- CSS 
+- Bootstrap 5
+- JavaScript
+- SASS
 
 ## Features
 
